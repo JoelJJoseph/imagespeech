@@ -3,3 +3,4 @@ pytesseract
 tesseract
 opencv-python
 pyttsx3
+gunicorn
